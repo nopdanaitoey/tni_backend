@@ -1,0 +1,6 @@
+@tni_HostAddress = http://localhost:5047
+
+GET {{tni_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
